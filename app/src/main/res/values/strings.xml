@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Main</string>
+    <string name="alarm">Alarma</string>
+    <string name="bEstablecer">Establecer</string>
+</resources>
